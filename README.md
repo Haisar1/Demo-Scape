@@ -19,7 +19,6 @@ Avoid being spotted by monsters, gather necessary supplies, and reach the helico
 
 ## Story
 
-### Date: November 2, 2022
 
 In the year 2032, the world as we knew it has disappeared. Two years ago, a virus was discovered, initially starting as a small infection. Over time, it mutated, transforming people into hideous, monster-like beings, as if straight out of a horror movie.
 
